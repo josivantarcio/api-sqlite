@@ -1,0 +1,10 @@
+###
+Send Request
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+    "name":"Josevan',
+    "email":"josivantarcio@msn.com",
+    "password":"1234"
+}
